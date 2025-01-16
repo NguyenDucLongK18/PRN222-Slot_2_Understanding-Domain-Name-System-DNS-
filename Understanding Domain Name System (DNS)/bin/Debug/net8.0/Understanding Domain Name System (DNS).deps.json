@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Understanding Domain Name System (DNS)/1.0.0": {
+        "runtime": {
+          "Understanding Domain Name System (DNS).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Understanding Domain Name System (DNS)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

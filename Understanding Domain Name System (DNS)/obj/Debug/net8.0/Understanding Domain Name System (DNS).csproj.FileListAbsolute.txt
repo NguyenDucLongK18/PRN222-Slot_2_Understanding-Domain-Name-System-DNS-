@@ -1,0 +1,14 @@
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\bin\Debug\net8.0\Understanding Domain Name System (DNS).exe
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\bin\Debug\net8.0\Understanding Domain Name System (DNS).deps.json
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\bin\Debug\net8.0\Understanding Domain Name System (DNS).runtimeconfig.json
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\bin\Debug\net8.0\Understanding Domain Name System (DNS).dll
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\bin\Debug\net8.0\Understanding Domain Name System (DNS).pdb
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).AssemblyInfoInputs.cache
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).AssemblyInfo.cs
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).csproj.CoreCompileInputs.cache
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).dll
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\refint\Understanding Domain Name System (DNS).dll
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).pdb
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\Understanding Domain Name System (DNS).genruntimeconfig.cache
+D:\PRN222\Understanding Domain Name System (DNS)\Understanding Domain Name System (DNS)\obj\Debug\net8.0\ref\Understanding Domain Name System (DNS).dll
